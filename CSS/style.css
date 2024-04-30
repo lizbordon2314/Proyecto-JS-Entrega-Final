@@ -1,0 +1,21 @@
+body {
+    font-family: 'solway', sans-serif;
+    background-color: #A1D6E2;
+}
+.libro {
+    border: 1px solid #ccc;
+    padding: 10px;
+    margin-bottom: 10px;
+}
+button {
+    cursor: pointer;
+    background-color: #1995AD;
+    color: black;
+    font-family: 'solway', sans-serif;
+}
+#carrito {
+    border: 1px solid #ccc;
+    padding: 10px;
+    margin-top: 20px;
+}
+
